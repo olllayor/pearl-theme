@@ -1,0 +1,8 @@
+id = "pearl-theme"
+name = "Pearl Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ollayor M muhammadnabiyevolloyor@gmail.com"]
+description = "Pearl - sepia light, charcoal dark. Glory to mankind.""
+homepage = "https://github.com/olllayor/pearl-theme"
+themes = ["themes/pearl.json"]
