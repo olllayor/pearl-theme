@@ -1,6 +1,6 @@
 # Pearl Theme for Zed
 
-> *Pearl — sepia light, charcoal dark. Glory to mankind.*
+> *Pearl — sepia light, charcoal dark.*
 
 A dual-flavor color theme crafted for [Zed](https://zed.dev).
 
