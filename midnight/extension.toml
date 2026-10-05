@@ -1,0 +1,7 @@
+id = "midnight-dark-theme"
+name = "Midnight Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ollayor M <muhammadnabiyevolloyor@gmail.com>"]
+description = "Midnight Dark - Nord-inspired midnight blue dark theme."
+repository = "https://github.com/olllayor/zed-themes"
